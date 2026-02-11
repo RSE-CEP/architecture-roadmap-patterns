@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this resource, please cite it as below."
+type: dataset
+title: "Research Software Engineering Capacity Enhancement Project (RSE-CEP)"
+abstract: "Architectural principles, a technology roadmap, and detailed explanations of common Research Software Engineering patterns for the Humanities, Arts, Social Sciences (HASS) and Indigenous research community."
+authors:
+  - name: "HASS Digital Research Hub"
+    affiliation: "Australian National University"
+  - name: "Australian Research Data Commons"
+    alias: "ARDC"
+identifiers:
+  - type: doi
+    value: "10.3565/x5f6-mw53"
+repository-code: "https://github.com/rse-cep"
+url: "https://ardc.edu.au/project/research-software-engineering-capacity-enhancement-project/"
+keywords:
+  - "research software engineering"
+  - "HASS research"
+  - "Indigenous research"
+  - "software patterns"
+  - "research infrastructure"
+  - "architectural guidance"
+  - "FAIR principles"
+  - "CARE principles"
+  - "Indigenous data sovereignty"
+license: "CC-BY-4.0"
+date-released: "2025-07-01"
+version: "1.0.0"
+contact:
+  - affiliation: "HASS Digital Research Hub, Australian National University"
+references:
+  - type: grant
+    title: "ARDC HASS and Indigenous Research Data Commons Community Data Lab"
+    institution:
+      name: "Australian Research Data Commons"
+  - type: software
+    title: "NCRIS Infrastructure Support"
+    institution:
+      name: "National Collaborative Research Infrastructure Strategy"

@@ -50,7 +50,7 @@
 
 ## Issues
 
-*The competing concerns, requirements, principles, or values that this pattern helps balance (Alexander, 1977). These are contextual forces, not problems to be solved.*
+*The conflicting requirements, principles, or values this pattern must balance. An issue may be a requirement (e.g. FAIR, CARE), a principle (e.g. data sovereignty, open science), a goal (e.g. reproducibility), a challenge (competing values), a need (user requirement), or a technical problem. These are contextual issues to balance.*
 
 ### Issue 1: [Name]
 

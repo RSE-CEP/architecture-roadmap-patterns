@@ -12,8 +12,8 @@ A **pattern** describes an issue that occurs repeatedly in our environment, and 
 
 Every pattern consists of three fundamental parts:
 1. **Context** - The situation where the issue exists
-2. **Issues** - The conflicting requirements that must be balanced
-3. **Solution** - A configuration that balances the system issues
+2. **Issues** - The conflicting requirements, principles, goals, challenges, needs, or technical problems that must be balanced
+3. **Solution** - A configuration that balances the issues
 
 ## Getting Started
 
@@ -65,7 +65,7 @@ Patterns are not rigid prescriptions but flexible guides:
 Each pattern follows a consistent structure:
 - **Name** - A descriptive title
 - **Context** - When and where this pattern applies
-- **Issues/Forces** - Competing concerns to balance
+- **Issues** - Conflicting requirements, principles, or values to balance. An issue may be a requirement (e.g. FAIR, CARE), a principle (e.g. data sovereignty, open science), a goal (e.g. reproducibility), a challenge (competing values), a need (user requirement), or a technical problem. These are contextual issues to balance.
 - **Solution** - The core approach
 - **Consequences** - Trade-offs and implications
 - **Examples** - Real-world applications

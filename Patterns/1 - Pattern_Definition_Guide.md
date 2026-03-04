@@ -12,7 +12,7 @@ A **pattern** describes an issue that occurs repeatedly in our environment, and 
 
 **Note on "Issue" vs. "Problem"**: While traditional pattern literature uses "problem," in research software engineering we often address **requirements** (FAIR, CARE, ethical codes), **principles** (Indigenous data sovereignty, open science), **goals** (reproducibility, sustainability), **challenges** (balancing competing values), **needs** (user requirements), or genuine **technical problems** (performance, bugs). We use "Issue" as an inclusive term that respects the diverse nature of research software engineering work.
 
-### The Three Essential Components {#the-three-essential-components-1}
+### The Three Essential Components 
 
 Every pattern consists of three fundamental parts:
 

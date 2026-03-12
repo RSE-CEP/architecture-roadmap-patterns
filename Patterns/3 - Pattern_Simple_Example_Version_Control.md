@@ -12,7 +12,6 @@
 |-------|-------|
 | **Pattern ID** | RSE-HASS-001 |
 | **Keywords** | version-control, research-data, reproducibility, FAIR, data-management, collaboration |
-| **Maturity Level** | Recommended (Validated) |
 | **Author(s)** | CDL RSE Team, ARDC |
 | **Version** | 1.0.0 |
 | **Last Updated** | 2026-02-10 |

@@ -12,8 +12,9 @@
 |-------|-------|
 | **Pattern ID** | [e.g., RSE-HASS-001] |
 | **Keywords** | [keyword1, keyword2, keyword3, Indigenous-data, FAIR, etc.] |
-| **Maturity Level** | [Foundational \| Recommended \| Emerging \| Experimental] |
+| **Status** | [Draft \| For Review \| Published] — *tracks lifecycle steps 2–4* |
 | **Author(s)** | [Name(s) and affiliation(s)] |
+| **Reviewer(s)** | [Name(s) and affiliation(s)] — *corresponds to lifecycle step 3* |
 | **Version** | [e.g., 1.0.0] |
 | **Last Updated** | [YYYY-MM-DD] |
 

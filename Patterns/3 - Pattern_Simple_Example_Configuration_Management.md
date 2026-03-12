@@ -12,7 +12,6 @@
 |-------|-------|
 | **Pattern ID** | RSE-HASS-002 |
 | **Keywords** | configuration, environment-management, reproducibility, deployment, software-development |
-| **Maturity Level** | Foundational (Mature) |
 | **Author(s)** | CDL RSE Team, ARDC |
 | **Version** | 1.0.0 |
 | **Last Updated** | 2026-02-10 |

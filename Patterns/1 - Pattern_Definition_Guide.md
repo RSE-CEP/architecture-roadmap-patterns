@@ -136,7 +136,7 @@ Patterns in research software engineering can operate at multiple levels:
   Emphasize trade-offs           Emphasize completion
   ----------------------------------------------------
 
-## Pattern Evolution and Maturity
+## Pattern Evolution
 
 Patterns evolve through use and refinement:
 
@@ -150,15 +150,6 @@ Patterns evolve through use and refinement:
 6.  **Refinement**: Update based on experience and feedback
 7.  **Maturation**: Becomes well-understood and widely adopted
 
-### Maturity Levels
-
-**Foundational (Mature)** - Well-established and proven - Widely adopted across many projects - Clear understanding of trade-offs - Example: Version control with Git
-
-**Recommended (Validated)** - Proven in multiple similar contexts - Best practice status emerging - Trade-offs generally understood - Example: RO-Crate for research data packaging
-
-**Emerging (Promising)** - Showing promise but needs more validation - Used successfully but not yet widespread - Trade-offs still being explored - Example: Decentralized identity for research
-
-**Experimental (Cutting-edge)** - New or unproven approaches - Limited production experience - Use with caution and close monitoring - Example: Quantum-resistant encryption for long-term archives
 
 ## Patterns in the CDL RSE Context
 
